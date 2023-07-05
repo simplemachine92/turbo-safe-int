@@ -1,0 +1,1 @@
+export { StarterHeader } from "./components/starter-header"

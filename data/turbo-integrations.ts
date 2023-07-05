@@ -72,6 +72,14 @@ export const turboIntegrations = {
     imgLight: '/integrations/pooltogether.svg',
     imgDark: '/integrations/pooltogether.svg',
   },
+  safe: {
+    name: 'Safe Template',
+    href: '/integration/safe',
+    url: 'https://safe.global/',
+    description: 'Safe is the most trusted decentralized custody protocol on Ethereum.',
+    imgLight: '/integrations/Safe_Logo_White.svg',
+    imgDark: '/integrations/Safe_Logo.svg',
+  },
   starter: {
     name: 'Starter Template',
     href: '/integration/starter',
