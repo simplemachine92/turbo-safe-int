@@ -11,7 +11,7 @@ import { LinkComponent } from '@/components/shared/link-component'
 import { FADE_DOWN_ANIMATION_VARIANTS } from '@/config/design'
 import { turboIntegrations } from '@/data/turbo-integrations'
 
-const integrationData = turboIntegrations.starter
+const integrationData = turboIntegrations.safe
 
 export default function LayoutIntegration({ children }: { children: ReactNode }) {
   return (
